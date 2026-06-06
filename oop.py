@@ -27,3 +27,4 @@ print(c.__dict__)  #⭐对象中的属性作为字典返回
 if __name__ == "__main__":
     c.run()
     print(c.wheel)
+    
